@@ -11,3 +11,6 @@ branches:
   only:
   - master
   - desenvolvimento
+ 
+ notifications:
+   slack: bsi-ifserra:zMiNFakrxPFZt4wgvFiXXvvw
